@@ -70,5 +70,7 @@ it Pushes the changes in your local repository up to the remote repository you s
 # 3- git push -f origin main
 
 
-
+# Oder 
+cd change directory
+pwd current directory
 
